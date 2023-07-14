@@ -29,5 +29,8 @@
   },
   "peerDependencies": {
     "arcgis-js-api": "^4.0.0"
+  },
+  "dependencies": {
+    "@esri/configurable-app-components": "^1.6.9"
   }
 }
